@@ -1,4 +1,4 @@
-h2. Traffic Light Netduino project
+h3. Traffic Light Netduino project
 
 This is my first Netduino project.
 Basically, all it does is simulate a traffic light by changing colors, using 3 LEDs. The code is written in C#, using the MS .Net micro framework and makes use of an LED class and a thread.
@@ -8,6 +8,7 @@ Components you'd need for this project:
 # A mini breadboard
 # 3 LEDs colored red, yellow and green
 # 7 wires
+
 You can read more about the project in my "blog":http://ttgcode.blogspot.com/2011/05/1st-netduino-project-traffic-light.html, or watch the "video on youtube":http://www.youtube.com/watch?v=pGJYE9ccdrI
 
 The git includes the Fritzing project as well as exported images of the circuit.
