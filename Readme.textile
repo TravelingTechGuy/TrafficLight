@@ -9,6 +9,6 @@ Components you'd need for this project:
 # 3 LEDs colored red, yellow and green
 # 7 wires
 
-You can read more about the project in my "blog":http://ttgcode.blogspot.com/2011/05/1st-netduino-project-traffic-light.html, or watch the "video on youtube":http://www.youtube.com/watch?v=pGJYE9ccdrI
+You can read more about the project in my "blog":http://code.TravelingTechGuy.com/2011/05/1st-netduino-project-traffic-light.html, or watch the "video on youtube":http://www.youtube.com/watch?v=pGJYE9ccdrI
 
 The git includes the Fritzing project as well as exported images of the circuit.
